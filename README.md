@@ -1,5 +1,5 @@
 
-#  `Henrique Pacheco`  
+#  Henrique Pacheco  
 #### 🎓 Análise e Desenvolvimento de Sistemas  | FIAP  
 
 ## Sobre mim  
