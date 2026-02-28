@@ -34,7 +34,7 @@ Sou um estudante dedicado, focado em evoluir constantemente e me tornar um profi
 Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos em programação, aprender com profissionais experientes e contribuir ativamente para o desenvolvimento de soluções modernas e eficientes.
 <br>
 
-## 📊 Estatísticas
+## 📊 Minhas Estatísticas
 <div>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henriquepacheco07&show_icons=true&locale=pt-br&bg_color=000000&title_color=00FF00&text_color=32CD32&icon_color=00FA9A" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henriquepacheco07&layout=compact&locale=pt-br&bg_color=000000&title_color=00FF00&text_color=32CD32&icon_color=00FA9A" />
